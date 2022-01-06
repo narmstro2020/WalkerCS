@@ -39,6 +39,7 @@ public class Circle {
         return outputString;
     }
 
+    //Behavior Methods for Diameter, Circumference, Area
     public double Diameter(){
         return 2 * this.radius;
     }
