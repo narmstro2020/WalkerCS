@@ -1,4 +1,4 @@
-package org.WalkerCC_CompSci;
+package org.BehaviorMethods;
 
 public class Main {
 

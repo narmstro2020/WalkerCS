@@ -1,4 +1,4 @@
-package org.WalkerCC_CompSci;
+package org.BehaviorMethods;
 
 public class Circle {
     //Field (Attributes) marked private because we should access by Getters and Setters
