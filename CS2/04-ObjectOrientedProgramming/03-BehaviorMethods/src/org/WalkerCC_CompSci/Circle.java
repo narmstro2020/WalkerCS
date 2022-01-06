@@ -27,6 +27,7 @@ public class Circle {
         return this.name;
     }
 
+    //toString method for Class
     public String toString(){
         String outputString = "";
 
