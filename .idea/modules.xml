@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS2/04-ObjectOrientedProgramming/04-Java Modifiers/04-Java Modifiers.iml" filepath="$PROJECT_DIR$/CS2/04-ObjectOrientedProgramming/04-Java Modifiers/04-Java Modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS2/04-ObjectOrientedProgramming/04-ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/CS2/04-ObjectOrientedProgramming/04-ObjectOrientedProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/CS2/CS2.iml" filepath="$PROJECT_DIR$/CS2/CS2.iml" />
       <module fileurl="file://$PROJECT_DIR$/WalkerCS.iml" filepath="$PROJECT_DIR$/WalkerCS.iml" />
     </modules>
